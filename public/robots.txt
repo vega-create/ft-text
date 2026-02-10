@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://text.freetoolkit.cc/sitemap-index.xml
