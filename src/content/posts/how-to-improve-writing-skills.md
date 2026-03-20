@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; border: 1px solid #93c5fd;"><div style="font-size: 0.9rem;">✍️</div><div style="font-size: 0.7rem; font-weight: 600; color: #1e40af;">Clarity</div></div><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; border: 1px solid #86efac;"><div style="font-size: 0.9rem;">📝</div><div style="font-size: 0.7rem; font-weight: 600; color: #166534;">Grammar</div></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; border: 1px solid #fde68a;"><div style="font-size: 0.9rem;">🏗️</div><div style="font-size: 0.7rem; font-weight: 600; color: #92400e;">Structure</div></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; border: 1px solid #f9a8d4;"><div style="font-size: 0.9rem;">📚</div><div style="font-size: 0.7rem; font-weight: 600; color: #9d174d;">Vocabulary</div></div><div style="padding: 0.6rem; background: #ede9fe; border-radius: 8px; text-align: center; border: 1px solid #c4b5fd;"><div style="font-size: 0.9rem;">🔍</div><div style="font-size: 0.7rem; font-weight: 600; color: #6d28d9;">Editing</div></div></div>
 Good writing is a skill that benefits everyone, not just professional writers. Whether you are crafting emails, reports, blog posts, or social media updates, clear and effective writing makes a difference.
 
 ## 1. Write Every Day

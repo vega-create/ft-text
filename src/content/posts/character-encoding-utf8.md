@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Character Set Coverage</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 12%; background: #94a3b8; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.7rem; font-weight: 600; color: white;">ASCII: 128</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 20%; background: #60a5fa; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.7rem; font-weight: 600; color: white;">Latin-1: 256</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 100%; background: #16a34a; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.7rem; font-weight: 600; color: white;">UTF-8: 1,112,064 characters (all languages)</div></div></div>
 Character encoding is fundamental to how computers store and display text. Misunderstanding encoding leads to garbled text, broken characters, and data corruption. UTF-8 has become the dominant encoding standard for the modern web.
 
 ## What Is Character Encoding?

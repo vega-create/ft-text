@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;"><div style="padding: 0.7rem; background: #fef2f2; border-radius: 10px; text-align: center; border: 1px solid #fecaca;"><div style="font-size: 1.4rem; font-weight: 800; color: #dc2626;">20%</div><div style="font-size: 0.7rem; color: #6b7280;">of text is read</div></div><div style="padding: 0.7rem; background: #fef3c7; border-radius: 10px; text-align: center; border: 1px solid #fde68a;"><div style="font-size: 1.4rem; font-weight: 800; color: #d97706;">80%</div><div style="font-size: 0.7rem; color: #6b7280;">of users scan</div></div><div style="padding: 0.7rem; background: #dbeafe; border-radius: 10px; text-align: center; border: 1px solid #93c5fd;"><div style="font-size: 1.4rem; font-weight: 800; color: #2563eb;">3 sec</div><div style="font-size: 0.7rem; color: #6b7280;">first impression</div></div></div>
 Writing for the web is fundamentally different from writing for print. Online readers scan, skip, and click away in seconds. Your content needs to grab attention, deliver value quickly, and keep readers engaged.
 
 ## How People Read Online

@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="background: #dcfce7; padding: 0.5rem 0.8rem; border-radius: 8px; margin-bottom: 0.4rem; font-size: 0.75rem;"><span style="color: #166534; font-weight: 700;">✓ Good:</span> <code style="color: #166534;">/blog/seo-friendly-urls</code></div><div style="background: #fecaca; padding: 0.5rem 0.8rem; border-radius: 8px; font-size: 0.75rem;"><span style="color: #dc2626; font-weight: 700;">✗ Bad:</span> <code style="color: #dc2626;">/blog?id=123&cat=seo&ref=nav</code></div></div>
 URL structure is an important factor in search engine optimization. Well-crafted URLs improve click-through rates, help search engines understand your content, and create a better user experience.
 
 ## What Is a URL Slug?

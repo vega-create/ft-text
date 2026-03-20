@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #1e293b; border-radius: 12px; padding: 1rem; border: 1px solid #334155;"><div style="font-weight: 700; font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.6rem;">Essential Regex Patterns</div><div style="display: grid; grid-template-columns: auto 1fr; gap: 0.3rem; font-size: 0.75rem; font-family: monospace;"><div style="color: #4ade80; padding: 0.2rem 0.4rem;">.</div><div style="color: #94a3b8; padding: 0.2rem;">Any character</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">\d</div><div style="color: #94a3b8; padding: 0.2rem;">Digit [0-9]</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">\w</div><div style="color: #94a3b8; padding: 0.2rem;">Word char [a-zA-Z0-9_]</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">*</div><div style="color: #94a3b8; padding: 0.2rem;">0 or more</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">+</div><div style="color: #94a3b8; padding: 0.2rem;">1 or more</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">?</div><div style="color: #94a3b8; padding: 0.2rem;">0 or 1 (optional)</div></div></div>
 Regular expressions (regex) are patterns used to match character combinations in strings. They are powerful tools for text processing, validation, and data extraction.
 
 ## Basic Syntax

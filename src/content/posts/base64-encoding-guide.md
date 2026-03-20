@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Base64 Encoding: Size Impact</div><div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;"><div style="background: #dbeafe; padding: 0.5rem 0.8rem; border-radius: 8px; text-align: center;"><div style="font-size: 0.7rem; color: #6b7280;">Input</div><div style="font-weight: 800; color: #1e40af; font-family: monospace;">Hello</div><div style="font-size: 0.65rem; color: #6b7280;">5 bytes</div></div><div style="color: #3b82f6; font-weight: 700; font-size: 1.2rem;">→</div><div style="background: #dcfce7; padding: 0.5rem 0.8rem; border-radius: 8px; text-align: center;"><div style="font-size: 0.7rem; color: #6b7280;">Base64</div><div style="font-weight: 800; color: #166534; font-family: monospace;">SGVsbG8=</div><div style="font-size: 0.65rem; color: #6b7280;">8 chars (+33%)</div></div></div></div>
 Base64 is a binary-to-text encoding scheme that converts binary data into a string of ASCII characters. It is widely used in web development, email systems, and data storage.
 
 ## How Base64 Works

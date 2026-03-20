@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current text recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #1e293b; border-radius: 12px; padding: 1rem; border: 1px solid #334155;"><div style="font-weight: 700; font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.6rem;">Common URL Encodings</div><div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 0.3rem; font-size: 0.8rem; font-family: monospace; align-items: center;"><div style="color: #60a5fa; text-align: center;">space</div><div style="color: #475569;">→</div><div style="color: #4ade80; text-align: center;">%20</div><div style="color: #60a5fa; text-align: center;">&</div><div style="color: #475569;">→</div><div style="color: #4ade80; text-align: center;">%26</div><div style="color: #60a5fa; text-align: center;">=</div><div style="color: #475569;">→</div><div style="color: #4ade80; text-align: center;">%3D</div><div style="color: #60a5fa; text-align: center;">?</div><div style="color: #475569;">→</div><div style="color: #4ade80; text-align: center;">%3F</div></div></div>
 URL encoding, also known as percent-encoding, is a mechanism for encoding special characters in URLs. Understanding URL encoding is essential for web developers, API integrators, and anyone working with web addresses.
 
 ## What Is URL Encoding?
